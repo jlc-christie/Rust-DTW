@@ -1,0 +1,11 @@
+[package]
+name = "rust_dtw"
+version = "0.1.0"
+authors = ["James Christie <jlc_christie@live.com>"]
+
+[dependencies]
+time = "0.1"
+
+[[bin]]
+name = "rust_dtw"
+path = "main.rs"
